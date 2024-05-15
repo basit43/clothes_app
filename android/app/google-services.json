@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1030852875003",
+    "project_id": "authentication-b3762",
+    "storage_bucket": "authentication-b3762.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030852875003:android:f4b3eb88be4af4a1f2965e",
+        "android_client_info": {
+          "package_name": "com.example.clothes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt5ZIcK5bAm3fEcpLfIm4MtNeXLL1azMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
